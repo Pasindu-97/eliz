@@ -1,0 +1,6 @@
+@Eliz_HostAddress = http://localhost:5135
+
+GET {{Eliz_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
